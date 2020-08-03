@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(71, 190, 55);
+}
+
+header h1 {
+    color: #fff;
+}
+
+main {
+    background-color: #fff;
+    border-radius: 20px; 
+}
+
+.start {
+    width: 200px;
+}
+
+.panel {
+    width: 800px;
+    height: 400px;
+}
+
+.game-info {
+    height: 340px;
+}
+
+img {
+    max-width: 100px;
+}
